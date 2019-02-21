@@ -1,5 +1,5 @@
 # 博客文章
-> 若有需要可以直接在lssuse下评论，请勿新建lssuse谢谢合作！
+> 若有需要可以直接在Issues下评论，请勿新建Issues谢谢合作！
 
 [sf](https://segmentfault.com/u/sure_58e89bb13a761)
 
