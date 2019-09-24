@@ -15,4 +15,4 @@
 - [x] vue
 - [x] github项目
 - [x] 网站总结
-- [ ] typescript
+- [x] typescript
